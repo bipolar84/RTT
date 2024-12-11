@@ -1,0 +1,11 @@
+{
+  "name": "rikki tikki tavi",
+  "symbol": "RTT",
+  "description": "Inspired by the fearless mongoose who takes on the snakes of the crypto world, Rikki Tikki Tavi Token is here to protect your wallet and fight off rug pulls! No fangs, just gains.",
+  "image": "https://imgur.com/a/CGm3jFO",
+  "attributes": [
+    { "trait_type": "Type", "value": "Fungible Token" },
+    { "trait_type": "Meme", "value": "Custom Token" }
+  ],
+  "seller_fee_basis_points": 100
+}
